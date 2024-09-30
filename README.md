@@ -1,0 +1,1 @@
+[![hello-world](https://github.com/Gamabyta24/hexlet-pytest/actions/workflows/test.yaml/badge.svg)](https://github.com/Gamabyta24/hexlet-pytest/actions/workflows/test.yaml)
